@@ -4,7 +4,7 @@ Dashboard sulla popolazione dei comuni italiani ai censimenti dal 1951 al 2021, 
 
 **Pagina:** https://tinalovat.github.io/dashboard-aree-interne/
 
-Lavoro di prova di Martina Lovat.
+Lavoro di prova di Martina Lovat, sviluppato con l'aiuto di [Claude](https://claude.ai) (Anthropic) per la preparazione dei dati e la scrittura del codice. Impostazione, scelte di analisi e verifica dei risultati sono dell'autrice.
 
 ## Contenuto
 
